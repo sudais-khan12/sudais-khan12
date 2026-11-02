@@ -1,9 +1,4 @@
 <div align="center">
-  <!-- Replace the URL below with the link to your new grayscale profile picture once uploaded to GitHub -->
-  <img src="https://via.placeholder.com/150/111111/FFFFFF?text=Profile+Pic" width="150" style="border-radius: 50%;" alt="Sudais Khan">
-  
-  <h1>Sudais Khan</h1>
-  <p><b>Full-Stack Developer | Automation & AI Integration Engineer</b></p>
   <p><i>Building reliable applications, SaaS architectures, and automated solutions that solve real business problems.</i></p>
   
   <div>
