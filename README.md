@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <br/>
   <p><b><kbd>Full-Stack Developer</kbd> | <kbd>Automation & AI Integration Engineer</kbd></b></p>
   <p><i>Building reliable applications, SaaS architectures, and automated solutions that solve real business problems.</i></p>
   
@@ -23,9 +20,7 @@
   </ul>
 </blockquote>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<hr/>
 
 ### 💻 Technical Proficiencies
 
@@ -64,8 +59,9 @@
   </tr>
 </table>
 
+<hr/>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <br/><br/>
+  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
