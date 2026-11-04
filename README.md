@@ -22,7 +22,7 @@
 
 <hr/>
 
-### 💻 Technical Proficiencies
+### Technical Proficiencies
 
 <table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
