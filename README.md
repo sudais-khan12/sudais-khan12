@@ -9,14 +9,14 @@
   <br/>
 </div>
 
-### 💫 About Me
+### About Me
 <blockquote>
   <ul>
-    <li>🔭 <b>Currently Building:</b> CodeClash, a real-time competitive coding platform (Next.js, TypeScript, Firebase, Socket.io, Redis, Judge0).</li>
-    <li>🌱 <b>Currently Learning:</b> Local AI environments, containerized LLM deployment (Docker, Ollama), and scalable backend architectures.</li>
-    <li>🤝 <b>Looking to Collaborate On:</b> High-performance Next.js + TypeScript architectures, SaaS dashboards, and automated workflows.</li>
-    <li>💬 <b>Ask Me About:</b> Next.js, Supabase, n8n automation, web scraping, Socket.io, and taking apps from zero to production.</li>
-    <li>⚡ <b>Fun Fact:</b> I ship faster than most people finish planning.</li>
+    <li><b>Currently Building:</b> CodeClash, a real-time competitive coding platform (Next.js, TypeScript, Firebase, Socket.io, Redis, Judge0).</li>
+    <li><b>Currently Learning:</b> Local AI environments, containerized LLM deployment (Docker, Ollama), and scalable backend architectures.</li>
+    <li><b>Looking to Collaborate On:</b> High-performance Next.js + TypeScript architectures, SaaS dashboards, and automated workflows.</li>
+    <li><b>Ask Me About:</b> Next.js, Supabase, n8n automation, web scraping, Socket.io, and taking apps from zero to production.</li>
+    <li><b>Fun Fact:</b> I ship faster than most people finish planning.</li>
   </ul>
 </blockquote>
 
